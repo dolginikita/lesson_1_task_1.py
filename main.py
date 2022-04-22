@@ -11,7 +11,7 @@ seconds = minutes % 60
 print(days, "день", hour, "час", minutes, "минут", seconds, "секунд")
 
 
-#задание №2
+# задание №2
 
 a = []
 for i in range(1000):
